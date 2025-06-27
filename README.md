@@ -61,7 +61,7 @@ HanOSINT Explorer - это продвинутый OSINT-бот для Telegram, 
 3. Установка  
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/hanosint-explorer.git
+git clone https://github.com/banhanman/HanOSINT-Explorer
 cd hanosint-explorer
 
 # Создать виртуальное окружение
